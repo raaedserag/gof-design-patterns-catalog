@@ -1,0 +1,3 @@
+# Problems with the current Implementation
+- The current implementation of the Memento pattern is not very flexible. The caretaker can only store and retrieve the entire state of the originator. It would be more useful if the caretaker could store and retrieve the originator's state in parts.
+- When we need to add new properties to the originator, we need to change the memento class as well. This violates the open/closed principle.
