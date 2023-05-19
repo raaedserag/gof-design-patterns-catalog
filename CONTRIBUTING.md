@@ -20,7 +20,7 @@ You can contribute to this repository in the following ways:
 1. Create new folder with name of design pattern in root of repository (if it doesn't exist), for example `2-factory-method`
 2. Create new folder with name of language in folder of design pattern (if it doesn't exist), for example `python`
 3. Add new example of implementation of design pattern in this language, give it name `implementation-<version>-<title>` (for example `implementation-v1-simple`)
-4. Add new example of usage of design pattern in this language, give it name `example-<version>-<example name>` (for example `example-v1-text_editor`)
+4. Add new example of usage of design pattern in this language, give it name `example-<example name>-version` (for example `example-text-editor-v1`)
 
 # Notes
 - Make sure not to add any IDE-specific files to repository
