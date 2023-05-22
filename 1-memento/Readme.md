@@ -1,6 +1,8 @@
 # Memento (Token) Pattern - Behavioral
 
-![Diagram of Memento Pattern](https://www.tutorialspoint.com/design_pattern/images/memento_pattern_uml_diagram.jpg)
+![Diagram 1 of Memento Pattern](https://www.tutorialspoint.com/design_pattern/images/memento_pattern_uml_diagram.jpg)
+
+![Diagram 2 of Memento Pattern](https://refactoring.guru/images/patterns/diagrams/memento/structure1.png)
 
 - The memento pattern is used to restore state of an object to a
   previous state.
